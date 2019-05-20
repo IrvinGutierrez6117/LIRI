@@ -1,0 +1,23 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "siri like app",
+  "main": "LIRI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrvinGutierrez6117/LIRI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrvinGutierrez6117/LIRI/issues"
+  },
+  "homepage": "https://github.com/IrvinGutierrez6117/LIRI#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
